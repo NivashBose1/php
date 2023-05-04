@@ -22,7 +22,7 @@ upload photo:<input type="file" id="myFile" name="filename"><br>
 
 
 <?php
-include 'inc\con.php';
+include 'inc/connect.php';
 ?>
 
 

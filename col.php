@@ -1,5 +1,5 @@
 <?php
-include 'inc/con.php';
+include 'inc/connect.php';
 $name = $_POST['name'];
 $phone = $_POST['phone'];
 $dob = $_POST['birthday'];
